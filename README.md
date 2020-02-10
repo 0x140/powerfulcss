@@ -1,3 +1,3 @@
-# powerfulcss
-## The Greate Legendary CSS3
-~The King of Art ~
+# A css3 styled site
+## Made with only html and css
+
