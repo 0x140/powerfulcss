@@ -1,3 +1,4 @@
-# A css3 styled site
-## Made with only html and css
+# A css3-styled animated site
+A website Made with only html and css.
+
 
